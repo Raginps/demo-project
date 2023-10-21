@@ -1,0 +1,36 @@
+body{
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Raleway', sans-serif;
+}
+.frist{
+    /* color: rgba(0, 0, 0, 0.507); */
+    letter-spacing:5px ;
+    margin-top: 30%;
+    text-align: center;
+}
+.second{
+    /* color: rgba(0, 0, 0, 0.712); */
+    letter-spacing: 5px;
+    /* font-family: 'Raleway', sans-serif; */
+    margin-left: 40%;
+}
+.buttons{
+    text-align: center;
+    height: 25px;
+    width: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.342);
+    /* position: relative; */
+    left: 250px;
+    /* border-radius: px; */
+    margin: auto;
+
+}
+.buttons a{
+    color: red;
+    text-decoration: none;
+    padding: 20px;
+    /* font-family: 'Raleway', sans-serif; */
+    
+    /* position: relative; */
+    /* top: 4px; */
+}
